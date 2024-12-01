@@ -27,13 +27,11 @@ import java.util.List;
 public class GlobalExceptionHandler {
 
     @ExceptionHandler(XueChengPlusException.class)
-    @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
-    public RestErrorResponse handlerCustomException(Exception ex){
+    public RestErrorResponse handlerCustomException(XueChengPlusException ex){
         return new RestErrorResponse(ex.getMessage());
     }
 
     @ExceptionHandler(Exception.class)
-    @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
     public RestErrorResponse handlerException(Exception ex){
         return new RestErrorResponse(CommonError.UNKOWN_ERROR.getErrMessage());
     }

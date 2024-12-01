@@ -1,5 +1,7 @@
 package com.xuecheng.content.api;
 
+import com.xuecheng.base.constant.TeachPlanConstant;
+import com.xuecheng.base.response.RestErrorResponse;
 import com.xuecheng.content.model.dto.SaveTeachplanDto;
 import com.xuecheng.content.model.dto.TeachPlanTreeDto;
 import com.xuecheng.content.service.TeachplanService;
@@ -34,6 +36,24 @@ public class TeachPlanController {
     @Operation(summary = "新增或修改课程计划")
     public void saveTeachPlan(@RequestBody SaveTeachplanDto dto) {
         teachplanService.saveTeachPlan(dto);
+    }
+
+    @DeleteMapping("/{teachplanId}")
+    @Operation(summary = "删除课程计划")
+    public RestErrorResponse deleteTeachPlan(@PathVariable("teachplanId") Long teachplanId) {
+        return teachplanService.deleteTeachPlan(teachplanId);
+    }
+
+    @PostMapping("/moveup/{teachplanId}")
+    @Operation(summary = "上移课程")
+    public void moveup(@PathVariable("teachplanId") Long teachplanId) {
+        teachplanService.move(teachplanId, TeachPlanConstant.UP);
+    }
+
+    @PostMapping("/movedown/{teachplanId}")
+    @Operation(summary = "下移课程")
+    public void movedown(@PathVariable("teachplanId") Long teachplanId) {
+        teachplanService.move(teachplanId, TeachPlanConstant.DOWN);
     }
 
 }

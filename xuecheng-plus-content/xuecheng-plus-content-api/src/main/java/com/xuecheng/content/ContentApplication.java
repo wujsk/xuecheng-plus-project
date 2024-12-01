@@ -3,11 +3,14 @@ package com.xuecheng.content;
 import com.xuecheng.base.config.CorsConfig;
 import com.xuecheng.base.config.LocalDateTimeConfig;
 import com.xuecheng.base.config.MybatisPlusConfig;
+import com.xuecheng.base.handler.GlobalExceptionHandler;
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.ComponentScans;
 import org.springframework.context.annotation.Import;
 
 /**
@@ -25,7 +28,7 @@ import org.springframework.context.annotation.Import;
 )
 @SpringBootApplication
 @MapperScan("com.xuecheng.content.mapper")
-@Import({MybatisPlusConfig.class, CorsConfig.class, LocalDateTimeConfig.class})
+@Import({MybatisPlusConfig.class, CorsConfig.class, LocalDateTimeConfig.class, GlobalExceptionHandler.class})
 public class ContentApplication {
     public static void main(String[] args) {
         SpringApplication.run(ContentApplication.class, args);
