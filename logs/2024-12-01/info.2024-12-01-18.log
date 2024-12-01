@@ -1,0 +1,6 @@
+2024-12-01 19:05:16,942 WARN [HikariPool-1 housekeeper][HikariPool.java:797] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m13s91ms304µs).
+2024-12-01 19:05:16,942 WARN [HikariPool-1 housekeeper][HikariPool.java:797] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m13s91ms304µs).
+2024-12-01 19:05:16,957 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 19:05:16,957 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 19:05:16,957 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 19:05:16,957 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.

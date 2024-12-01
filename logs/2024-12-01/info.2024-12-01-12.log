@@ -1,0 +1,14 @@
+2024-12-01 15:18:11,310 DEBUG [SpringApplicationShutdownHook][ApplicationAvailabilityBean.java:77] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-12-01 15:18:11,310 DEBUG [SpringApplicationShutdownHook][ApplicationAvailabilityBean.java:77] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-12-01 15:18:11,324 DEBUG [SpringApplicationShutdownHook][AbstractApplicationContext.java:1158] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@34448e6c, started on Sun Dec 01 12:42:34 CST 2024
+2024-12-01 15:18:11,324 DEBUG [SpringApplicationShutdownHook][AbstractApplicationContext.java:1158] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@34448e6c, started on Sun Dec 01 12:42:34 CST 2024
+2024-12-01 15:18:11,327 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147483647
+2024-12-01 15:18:11,327 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147483647
+2024-12-01 15:18:11,328 DEBUG [SpringApplicationShutdownHook][RedisMessageListenerContainer.java:1009] - Stopped RedisMessageListenerContainer
+2024-12-01 15:18:11,328 DEBUG [SpringApplicationShutdownHook][RedisMessageListenerContainer.java:1009] - Stopped RedisMessageListenerContainer
+2024-12-01 15:18:11,328 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisKeyValueAdapter' completed its stop procedure
+2024-12-01 15:18:11,328 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisKeyValueAdapter' completed its stop procedure
+2024-12-01 15:18:11,328 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147482623
+2024-12-01 15:18:11,328 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147482623
+2024-12-01 15:18:11,329 INFO [SpringApplicationShutdownHook][GracefulShutdown.java:54] - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-01 15:18:11,329 INFO [SpringApplicationShutdownHook][GracefulShutdown.java:54] - Commencing graceful shutdown. Waiting for active requests to complete

@@ -1,0 +1,68 @@
+2024-12-01 18:12:23,635 WARN [HikariPool-1 housekeeper][HikariPool.java:797] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m26s329ms240µs400ns).
+2024-12-01 18:12:23,635 WARN [HikariPool-1 housekeeper][HikariPool.java:797] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m26s329ms240µs400ns).
+2024-12-01 18:12:23,651 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 18:12:23,651 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 18:12:23,651 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 18:12:23,651 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 18:12:23,651 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@57ee09c9: (connection has passed maxLifetime)
+2024-12-01 18:12:23,651 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@57ee09c9: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5edb8d6: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5edb8d6: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@248e306e: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@248e306e: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50a738a8: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50a738a8: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@98db8b4: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@98db8b4: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@74aa041b: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@74aa041b: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1660dc0: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1660dc0: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@577f178e: (connection has passed maxLifetime)
+2024-12-01 18:12:23,667 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@577f178e: (connection has passed maxLifetime)
+2024-12-01 18:12:23,682 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@320b8cea: (connection has passed maxLifetime)
+2024-12-01 18:12:23,682 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@320b8cea: (connection has passed maxLifetime)
+2024-12-01 18:12:23,682 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ff58ae7: (connection has passed maxLifetime)
+2024-12-01 18:12:23,682 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ff58ae7: (connection has passed maxLifetime)
+2024-12-01 18:12:23,685 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@630e70ef
+2024-12-01 18:12:23,685 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@630e70ef
+2024-12-01 18:12:23,733 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=1, active=0, idle=1, waiting=0)
+2024-12-01 18:12:23,733 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=1, active=0, idle=1, waiting=0)
+2024-12-01 18:12:23,733 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17e02719
+2024-12-01 18:12:23,733 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17e02719
+2024-12-01 18:12:23,780 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=2, active=0, idle=2, waiting=0)
+2024-12-01 18:12:23,780 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=2, active=0, idle=2, waiting=0)
+2024-12-01 18:12:23,780 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40a097b1
+2024-12-01 18:12:23,780 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40a097b1
+2024-12-01 18:12:23,827 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=3, active=0, idle=3, waiting=0)
+2024-12-01 18:12:23,827 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=3, active=0, idle=3, waiting=0)
+2024-12-01 18:12:23,831 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@426d2727
+2024-12-01 18:12:23,831 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@426d2727
+2024-12-01 18:12:23,874 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=4, active=0, idle=4, waiting=0)
+2024-12-01 18:12:23,874 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=4, active=0, idle=4, waiting=0)
+2024-12-01 18:12:23,874 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@574dae71
+2024-12-01 18:12:23,874 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@574dae71
+2024-12-01 18:12:23,921 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=5, active=0, idle=5, waiting=0)
+2024-12-01 18:12:23,921 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=5, active=0, idle=5, waiting=0)
+2024-12-01 18:12:23,921 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72279a06
+2024-12-01 18:12:23,921 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72279a06
+2024-12-01 18:12:23,968 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=6, active=0, idle=6, waiting=0)
+2024-12-01 18:12:23,968 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=6, active=0, idle=6, waiting=0)
+2024-12-01 18:12:23,968 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e0ef9b7
+2024-12-01 18:12:23,968 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e0ef9b7
+2024-12-01 18:12:24,015 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=7, active=0, idle=7, waiting=0)
+2024-12-01 18:12:24,015 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=7, active=0, idle=7, waiting=0)
+2024-12-01 18:12:24,015 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25355b2b
+2024-12-01 18:12:24,015 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25355b2b
+2024-12-01 18:12:24,063 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=8, active=0, idle=8, waiting=0)
+2024-12-01 18:12:24,063 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=8, active=0, idle=8, waiting=0)
+2024-12-01 18:12:24,065 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5d73ce61
+2024-12-01 18:12:24,065 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5d73ce61
+2024-12-01 18:12:24,112 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=9, active=0, idle=9, waiting=0)
+2024-12-01 18:12:24,112 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=9, active=0, idle=9, waiting=0)
+2024-12-01 18:12:24,112 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ad52cc6
+2024-12-01 18:12:24,112 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ad52cc6
+2024-12-01 18:12:24,160 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 18:12:24,160 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 18:12:24,160 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 18:12:24,160 DEBUG [HikariPool-1 connection adder][HikariPool.java:405] - HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)

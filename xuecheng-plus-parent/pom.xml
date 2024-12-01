@@ -30,6 +30,9 @@
 
     <modules>
         <module>../xuecheng-plus-base</module>
+        <module>../xuecheng-plus-content</module>
+        <module>../xuecheng-plus-generator</module>
+        <module>../xuecheng-plus-system</module>
     </modules>
 
     <properties>
@@ -38,7 +41,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>3.4.0</spring-boot.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
-        <org.mapstruct.version>1.3.1.Final</org.mapstruct.version>
+        <org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
         <spring-cloud-alibaba.version>2022.0.0.0</spring-cloud-alibaba.version>
         <org.projectlombok.version>1.18.8</org.projectlombok.version>
         <jakatar.servlet-api.version>2.1.1</jakatar.servlet-api.version>
@@ -46,13 +49,13 @@
         <druid-spring-boot-starter.version>1.2.8</druid-spring-boot-starter.version>
         <mysql-connector-java.version>8.0.25</mysql-connector-java.version>
         <mybatis-plus-boot-starter.version>3.5.7</mybatis-plus-boot-starter.version>
+        <mybatis-plus-generator.version>3.4.1</mybatis-plus-generator.version>
         <commons-lang.version>2.6</commons-lang.version>
         <minio.version>8.4.3</minio.version>
         <xxl-job-core.version>2.3.1</xxl-job-core.version>
-        <swagger-annotations.version>1.5.20</swagger-annotations.version>
         <commons-lang3.version>3.10</commons-lang3.version>
         <okhttp.version>4.8.1</okhttp.version>
-        <swagger-spring-boot-starter.version>1.9.0.RELEASE</swagger-spring-boot-starter.version>
+        <swagger2-spring-boot-starter.version>2.3.0</swagger2-spring-boot-starter.version>
         <elasticsearch.version>7.12.1</elasticsearch.version>
         <hutool.version>5.7.17</hutool.version>
     </properties>
@@ -93,7 +96,7 @@
             <!-- mapstruct 代码生成器，简化java bean之间的映射 -->
             <dependency>
                 <groupId>org.mapstruct</groupId>
-                <artifactId>mapstruct-jdk8</artifactId>
+                <artifactId>mapstruct</artifactId>
                 <version>${org.mapstruct.version}</version>
             </dependency>
             <dependency>
@@ -102,9 +105,9 @@
                 <version>${org.mapstruct.version}</version>
             </dependency>
             <dependency>
-                <groupId>io.swagger</groupId>
-                <artifactId>swagger-annotations</artifactId>
-                <version>${swagger-annotations.version}</version>
+                <groupId>org.springdoc</groupId>
+                <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+                <version>${swagger2-spring-boot-starter.version}</version>
             </dependency>
             <!-- Servlet 容器管理 -->
             <dependency>
@@ -141,7 +144,7 @@
             <dependency>
                 <groupId>com.baomidou</groupId>
                 <artifactId>mybatis-plus-generator</artifactId>
-                <version>${mybatis-plus-boot-starter.version}</version>
+                <version>${mybatis-plus-generator.version}</version>
             </dependency>
             <!-- 工具类管理 -->
             <dependency>
@@ -196,20 +199,19 @@
                 <version>${commons-lang3.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.spring4all</groupId>
-                <artifactId>swagger-spring-boot-starter</artifactId>
-                <version>${swagger-spring-boot-starter.version}</version>
-            </dependency>
-            <dependency>
                 <groupId>org.elasticsearch.client</groupId>
                 <artifactId>elasticsearch-rest-high-level-client</artifactId>
                 <version>${elasticsearch.version}</version>
             </dependency>
-
             <dependency>
                 <groupId>org.elasticsearch</groupId>
                 <artifactId>elasticsearch</artifactId>
                 <version>${elasticsearch.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-pool2</artifactId>
+                <version>${commons-pool2.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
@@ -235,7 +237,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version>
+                <version>3.11.0</version>
                 <configuration>
                     <!--指定项目源码jdk的版本-->
                     <source>17</source>
@@ -247,6 +249,18 @@
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
                             <version>${org.projectlombok.version}</version>
+                        </path>
+                        <!-- 添加 mapstruct processor -->
+                        <path>
+                            <groupId>org.mapstruct</groupId>
+                            <artifactId>mapstruct-processor</artifactId>
+                            <version>${org.mapstruct.version}</version>
+                        </path>
+                        <!-- 如果使用 lombok 和 mapstruct 组合 -->
+                        <path>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok-mapstruct-binding</artifactId>
+                            <version>0.2.0</version>
                         </path>
                     </annotationProcessorPaths>
                 </configuration>

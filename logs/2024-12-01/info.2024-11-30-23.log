@@ -1,0 +1,50 @@
+2024-12-01 00:00:06,467 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:120] - POST "/content/course", parameters={}
+2024-12-01 00:00:06,467 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:120] - POST "/content/course", parameters={}
+2024-12-01 00:00:06,490 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:533] - Mapped to com.xuecheng.content.api.ContentBaseInfoController#insert(SaveCourseDto)
+2024-12-01 00:00:06,491 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:120] - Read "application/json;charset=UTF-8" to [SaveCourseDto(teachmode=200002, name=java网络协议, tags=java网络协议课程, mt=1-3, st=1-3-2, grade=204002, desc (truncated)...]
+2024-12-01 00:00:06,492 DEBUG [http-nio-63040-exec-3][AbstractPlatformTransactionManager.java:402] - Creating new transaction with name [com.xuecheng.content.service.impl.CourseBaseServiceImpl.insert]: PROPAGATION_REQUIRED,ISOLATION_DEFAULT
+2024-12-01 00:00:06,490 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:533] - Mapped to com.xuecheng.content.api.ContentBaseInfoController#insert(SaveCourseDto)
+2024-12-01 00:00:06,491 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:120] - Read "application/json;charset=UTF-8" to [SaveCourseDto(teachmode=200002, name=java网络协议, tags=java网络协议课程, mt=1-3, st=1-3-2, grade=204002, desc (truncated)...]
+2024-12-01 00:00:06,492 DEBUG [http-nio-63040-exec-3][AbstractPlatformTransactionManager.java:402] - Creating new transaction with name [com.xuecheng.content.service.impl.CourseBaseServiceImpl.insert]: PROPAGATION_REQUIRED,ISOLATION_DEFAULT
+2024-12-01 00:00:06,492 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:271] - Acquired Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be] for JDBC transaction
+2024-12-01 00:00:06,492 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:271] - Acquired Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be] for JDBC transaction
+2024-12-01 00:00:06,493 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:289] - Switching JDBC Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be] to manual commit
+2024-12-01 00:00:06,493 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:289] - Switching JDBC Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be] to manual commit
+2024-12-01 00:00:06,510 DEBUG [http-nio-63040-exec-3][AbstractPlatformTransactionManager.java:790] - Initiating transaction commit
+2024-12-01 00:00:06,511 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:334] - Committing JDBC transaction on Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be]
+2024-12-01 00:00:06,510 DEBUG [http-nio-63040-exec-3][AbstractPlatformTransactionManager.java:790] - Initiating transaction commit
+2024-12-01 00:00:06,511 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:334] - Committing JDBC transaction on Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be]
+2024-12-01 00:00:06,555 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:393] - Releasing JDBC Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be] after transaction
+2024-12-01 00:00:06,555 DEBUG [http-nio-63040-exec-3][DataSourceTransactionManager.java:393] - Releasing JDBC Connection [HikariProxyConnection@1963287986 wrapping com.mysql.cj.jdbc.ConnectionImpl@656c97be] after transaction
+2024-12-01 00:00:06,556 DEBUG [http-nio-63040-exec-3][AbstractMessageConverterMethodProcessor.java:310] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/yaml]
+2024-12-01 00:00:06,556 DEBUG [http-nio-63040-exec-3][AbstractMessageConverterMethodProcessor.java:310] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/yaml]
+2024-12-01 00:00:06,556 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:120] - Writing [CourseBaseInfoDto(charge=201001, price=1.0, originalPrice=100.0, qq=412412, wechat=412412, phone=421 (truncated)...]
+2024-12-01 00:00:06,556 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:120] - Writing [CourseBaseInfoDto(charge=201001, price=1.0, originalPrice=100.0, qq=412412, wechat=412412, phone=421 (truncated)...]
+2024-12-01 00:00:06,559 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1138] - Completed 200 OK
+2024-12-01 00:00:06,559 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1138] - Completed 200 OK
+2024-12-01 00:00:06,733 DEBUG [http-nio-63040-exec-4][LogFormatUtils.java:120] - GET "/content/teachplan/125/tree-nodes", parameters={}
+2024-12-01 00:00:06,733 DEBUG [http-nio-63040-exec-4][LogFormatUtils.java:120] - GET "/content/teachplan/125/tree-nodes", parameters={}
+2024-12-01 00:00:06,734 DEBUG [http-nio-63040-exec-4][AbstractHandlerMapping.java:533] - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2024-12-01 00:00:06,734 DEBUG [http-nio-63040-exec-4][AbstractHandlerMapping.java:533] - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2024-12-01 00:00:06,744 DEBUG [http-nio-63040-exec-4][DirectJDKLog.java:173] - Increased cache size by [549] for item [org.apache.catalina.webresources.CachedResource@3cb05c4] at [/teachplan/125/tree-nodes] making total cache size [3201]
+2024-12-01 00:00:06,744 DEBUG [http-nio-63040-exec-4][DirectJDKLog.java:173] - Increased cache size by [549] for item [org.apache.catalina.webresources.CachedResource@3cb05c4] at [/teachplan/125/tree-nodes] making total cache size [3201]
+2024-12-01 00:00:06,745 DEBUG [http-nio-63040-exec-4][ResourceHttpRequestHandler.java:584] - Resource not found
+2024-12-01 00:00:06,745 DEBUG [http-nio-63040-exec-4][ResourceHttpRequestHandler.java:584] - Resource not found
+2024-12-01 00:00:06,745 DEBUG [http-nio-63040-exec-4][DefaultHandlerExceptionResolver.java:702] - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource teachplan/125/tree-nodes.]
+2024-12-01 00:00:06,745 DEBUG [http-nio-63040-exec-4][DefaultHandlerExceptionResolver.java:702] - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource teachplan/125/tree-nodes.]
+2024-12-01 00:00:06,746 DEBUG [http-nio-63040-exec-4][FrameworkServlet.java:1138] - Completed 404 NOT_FOUND
+2024-12-01 00:00:06,746 DEBUG [http-nio-63040-exec-4][FrameworkServlet.java:1138] - Completed 404 NOT_FOUND
+2024-12-01 00:00:06,747 DEBUG [http-nio-63040-exec-4][LogFormatUtils.java:120] - "ERROR" dispatch for GET "/content/error", parameters={}
+2024-12-01 00:00:06,747 DEBUG [http-nio-63040-exec-4][LogFormatUtils.java:120] - "ERROR" dispatch for GET "/content/error", parameters={}
+2024-12-01 00:00:06,749 DEBUG [http-nio-63040-exec-4][AbstractHandlerMapping.java:533] - Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2024-12-01 00:00:06,749 DEBUG [http-nio-63040-exec-4][AbstractHandlerMapping.java:533] - Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2024-12-01 00:00:06,749 DEBUG [http-nio-63040-exec-4][AbstractMessageConverterMethodProcessor.java:310] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/yaml]
+2024-12-01 00:00:06,749 DEBUG [http-nio-63040-exec-4][AbstractMessageConverterMethodProcessor.java:310] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/yaml]
+2024-12-01 00:00:06,749 DEBUG [http-nio-63040-exec-4][LogFormatUtils.java:120] - Writing [{timestamp=Sun Dec 01 00:00:06 CST 2024, status=404, error=Not Found, path=/content/teachplan/125/tr (truncated)...]
+2024-12-01 00:00:06,749 DEBUG [http-nio-63040-exec-4][LogFormatUtils.java:120] - Writing [{timestamp=Sun Dec 01 00:00:06 CST 2024, status=404, error=Not Found, path=/content/teachplan/125/tr (truncated)...]
+2024-12-01 00:00:06,751 DEBUG [http-nio-63040-exec-4][FrameworkServlet.java:1135] - Exiting from "ERROR" dispatch, status 404
+2024-12-01 00:00:06,751 DEBUG [http-nio-63040-exec-4][FrameworkServlet.java:1135] - Exiting from "ERROR" dispatch, status 404
+2024-12-01 00:00:12,568 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:12,568 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:12,568 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:00:12,568 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.

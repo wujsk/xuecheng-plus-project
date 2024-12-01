@@ -1,0 +1,230 @@
+2024-12-01 00:00:25,796 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:25,821 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:00:25,796 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:25,821 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:00:42,570 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:42,570 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:42,570 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:00:42,570 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:00:55,835 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:55,835 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:00:55,835 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:00:55,835 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:12,571 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:12,571 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:12,571 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:12,571 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:25,846 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:25,846 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:25,846 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:25,846 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:42,582 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:42,582 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:42,582 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:42,582 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:55,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:55,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:01:55,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:01:55,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:12,583 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:12,583 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:12,583 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:12,583 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:25,868 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:25,868 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:25,868 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:25,868 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:42,593 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:42,593 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:42,594 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:42,594 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:55,873 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:55,873 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:02:55,873 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:02:55,873 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:03:12,485 DEBUG [SpringApplicationShutdownHook][ApplicationAvailabilityBean.java:77] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-12-01 00:03:12,485 DEBUG [SpringApplicationShutdownHook][ApplicationAvailabilityBean.java:77] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-12-01 00:03:12,486 DEBUG [SpringApplicationShutdownHook][AbstractApplicationContext.java:1158] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@78b236a0, started on Sat Nov 30 23:50:11 CST 2024
+2024-12-01 00:03:12,486 DEBUG [SpringApplicationShutdownHook][AbstractApplicationContext.java:1158] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@78b236a0, started on Sat Nov 30 23:50:11 CST 2024
+2024-12-01 00:03:12,487 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147483647
+2024-12-01 00:03:12,487 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147483647
+2024-12-01 00:03:12,488 DEBUG [SpringApplicationShutdownHook][RedisMessageListenerContainer.java:1009] - Stopped RedisMessageListenerContainer
+2024-12-01 00:03:12,488 DEBUG [SpringApplicationShutdownHook][RedisMessageListenerContainer.java:1009] - Stopped RedisMessageListenerContainer
+2024-12-01 00:03:12,488 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisKeyValueAdapter' completed its stop procedure
+2024-12-01 00:03:12,488 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisKeyValueAdapter' completed its stop procedure
+2024-12-01 00:03:12,488 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147482623
+2024-12-01 00:03:12,488 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147482623
+2024-12-01 00:03:12,490 INFO [SpringApplicationShutdownHook][GracefulShutdown.java:54] - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-01 00:03:12,490 INFO [SpringApplicationShutdownHook][GracefulShutdown.java:54] - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-01 00:03:12,606 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:12,606 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:12,606 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:03:12,606 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:03:12,782 INFO [tomcat-shutdown][GracefulShutdown.java:76] - Graceful shutdown complete
+2024-12-01 00:03:12,782 INFO [tomcat-shutdown][GracefulShutdown.java:76] - Graceful shutdown complete
+2024-12-01 00:03:12,783 DEBUG [tomcat-shutdown][DefaultLifecycleProcessor.java:388] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-12-01 00:03:12,783 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147481599
+2024-12-01 00:03:12,783 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147481599
+2024-12-01 00:03:12,783 DEBUG [tomcat-shutdown][DefaultLifecycleProcessor.java:388] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'webServerStartStop' completed its stop procedure
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 1073741823
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'applicationTaskExecutor' completed its stop procedure
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 0
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'webServerStartStop' completed its stop procedure
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 1073741823
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'applicationTaskExecutor' completed its stop procedure
+2024-12-01 00:03:12,786 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 0
+2024-12-01 00:03:12,789 DEBUG [SpringApplicationShutdownHook][AbstractRedisClient.java:568] - Initiate shutdown (0, 100, MILLISECONDS)
+2024-12-01 00:03:12,789 DEBUG [SpringApplicationShutdownHook][AbstractRedisClient.java:568] - Initiate shutdown (0, 100, MILLISECONDS)
+2024-12-01 00:03:12,795 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisConnectionFactory' completed its stop procedure
+2024-12-01 00:03:12,795 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisConnectionFactory' completed its stop procedure
+2024-12-01 00:03:12,795 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:399] - Successfully stopped bean 'refreshScopeLifecycle'
+2024-12-01 00:03:12,795 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:399] - Successfully stopped bean 'refreshScopeLifecycle'
+2024-12-01 00:03:12,796 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase -2147483647
+2024-12-01 00:03:12,796 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase -2147483647
+2024-12-01 00:03:12,796 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-12-01 00:03:12,796 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-12-01 00:03:12,797 DEBUG [SpringApplicationShutdownHook][DefaultClientResources.java:741] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:12,797 DEBUG [SpringApplicationShutdownHook][DefaultClientResources.java:741] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:12,800 DEBUG [SpringApplicationShutdownHook][DefaultEventLoopGroupProvider.java:302] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:12,800 DEBUG [SpringApplicationShutdownHook][DefaultEventLoopGroupProvider.java:302] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:12,870 DEBUG [SpringApplicationShutdownHook][DisposableBeanAdapter.java:361] - Custom destroy method 'shutdown' on bean with name 'lettuceClientResources' completed asynchronously
+2024-12-01 00:03:12,870 DEBUG [SpringApplicationShutdownHook][DisposableBeanAdapter.java:361] - Custom destroy method 'shutdown' on bean with name 'lettuceClientResources' completed asynchronously
+2024-12-01 00:03:12,870 DEBUG [SpringApplicationShutdownHook][MBeanExporter.java:467] - Unregistering JMX-exposed beans on shutdown
+2024-12-01 00:03:12,870 DEBUG [SpringApplicationShutdownHook][MBeanExporter.java:467] - Unregistering JMX-exposed beans on shutdown
+2024-12-01 00:03:12,871 DEBUG [SpringApplicationShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-12-01 00:03:12,871 DEBUG [SpringApplicationShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-12-01 00:03:12,873 DEBUG [SpringApplicationShutdownHook][ExecutorConfigurationSupport.java:370] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-12-01 00:03:12,873 DEBUG [SpringApplicationShutdownHook][ExecutorConfigurationSupport.java:370] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-12-01 00:03:12,875 INFO [SpringApplicationShutdownHook][HikariDataSource.java:349] - HikariPool-1 - Shutdown initiated...
+2024-12-01 00:03:12,875 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:12,875 INFO [SpringApplicationShutdownHook][HikariDataSource.java:349] - HikariPool-1 - Shutdown initiated...
+2024-12-01 00:03:12,875 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:12,881 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@656c97be: (connection evicted)
+2024-12-01 00:03:12,881 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@656c97be: (connection evicted)
+2024-12-01 00:03:12,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@27cdd6b5: (connection evicted)
+2024-12-01 00:03:12,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@27cdd6b5: (connection evicted)
+2024-12-01 00:03:12,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53670ebe: (connection evicted)
+2024-12-01 00:03:12,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53670ebe: (connection evicted)
+2024-12-01 00:03:12,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4047c00c: (connection evicted)
+2024-12-01 00:03:12,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4047c00c: (connection evicted)
+2024-12-01 00:03:12,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6aecd26: (connection evicted)
+2024-12-01 00:03:12,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6aecd26: (connection evicted)
+2024-12-01 00:03:12,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@327ca90a: (connection evicted)
+2024-12-01 00:03:12,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@327ca90a: (connection evicted)
+2024-12-01 00:03:12,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2cd966fb: (connection evicted)
+2024-12-01 00:03:12,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2cd966fb: (connection evicted)
+2024-12-01 00:03:12,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53c85c36: (connection evicted)
+2024-12-01 00:03:12,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53c85c36: (connection evicted)
+2024-12-01 00:03:12,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2530eff: (connection evicted)
+2024-12-01 00:03:12,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2530eff: (connection evicted)
+2024-12-01 00:03:12,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@78cd2fa3: (connection evicted)
+2024-12-01 00:03:12,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@78cd2fa3: (connection evicted)
+2024-12-01 00:03:12,902 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-12-01 00:03:12,902 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-12-01 00:03:12,902 INFO [SpringApplicationShutdownHook][HikariDataSource.java:351] - HikariPool-1 - Shutdown completed.
+2024-12-01 00:03:12,902 INFO [SpringApplicationShutdownHook][HikariDataSource.java:351] - HikariPool-1 - Shutdown completed.
+2024-12-01 00:03:25,523 DEBUG [SpringApplicationShutdownHook][ApplicationAvailabilityBean.java:77] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-12-01 00:03:25,523 DEBUG [SpringApplicationShutdownHook][ApplicationAvailabilityBean.java:77] - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-12-01 00:03:25,524 DEBUG [SpringApplicationShutdownHook][AbstractApplicationContext.java:1158] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7d0332e1, started on Sat Nov 30 23:49:42 CST 2024
+2024-12-01 00:03:25,524 DEBUG [SpringApplicationShutdownHook][AbstractApplicationContext.java:1158] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7d0332e1, started on Sat Nov 30 23:49:42 CST 2024
+2024-12-01 00:03:25,548 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147483647
+2024-12-01 00:03:25,548 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147483647
+2024-12-01 00:03:25,585 DEBUG [SpringApplicationShutdownHook][RedisMessageListenerContainer.java:1009] - Stopped RedisMessageListenerContainer
+2024-12-01 00:03:25,585 DEBUG [SpringApplicationShutdownHook][RedisMessageListenerContainer.java:1009] - Stopped RedisMessageListenerContainer
+2024-12-01 00:03:25,585 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisKeyValueAdapter' completed its stop procedure
+2024-12-01 00:03:25,585 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisKeyValueAdapter' completed its stop procedure
+2024-12-01 00:03:25,585 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147482623
+2024-12-01 00:03:25,585 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147482623
+2024-12-01 00:03:25,588 INFO [SpringApplicationShutdownHook][GracefulShutdown.java:54] - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-01 00:03:25,588 INFO [SpringApplicationShutdownHook][GracefulShutdown.java:54] - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-01 00:03:25,850 INFO [tomcat-shutdown][GracefulShutdown.java:76] - Graceful shutdown complete
+2024-12-01 00:03:25,850 INFO [tomcat-shutdown][GracefulShutdown.java:76] - Graceful shutdown complete
+2024-12-01 00:03:25,851 DEBUG [tomcat-shutdown][DefaultLifecycleProcessor.java:388] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-12-01 00:03:25,851 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147481599
+2024-12-01 00:03:25,851 DEBUG [tomcat-shutdown][DefaultLifecycleProcessor.java:388] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-12-01 00:03:25,851 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 2147481599
+2024-12-01 00:03:25,854 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'webServerStartStop' completed its stop procedure
+2024-12-01 00:03:25,854 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'webServerStartStop' completed its stop procedure
+2024-12-01 00:03:25,855 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 1073741823
+2024-12-01 00:03:25,855 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 1073741823
+2024-12-01 00:03:25,855 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'applicationTaskExecutor' completed its stop procedure
+2024-12-01 00:03:25,855 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'applicationTaskExecutor' completed its stop procedure
+2024-12-01 00:03:25,855 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 0
+2024-12-01 00:03:25,855 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase 0
+2024-12-01 00:03:25,860 DEBUG [SpringApplicationShutdownHook][RedisChannelHandler.java:139] - close()
+2024-12-01 00:03:25,860 DEBUG [SpringApplicationShutdownHook][RedisChannelHandler.java:139] - close()
+2024-12-01 00:03:25,861 DEBUG [SpringApplicationShutdownHook][RedisChannelHandler.java:153] - closeAsync()
+2024-12-01 00:03:25,861 DEBUG [SpringApplicationShutdownHook][RedisChannelHandler.java:153] - closeAsync()
+2024-12-01 00:03:25,861 DEBUG [SpringApplicationShutdownHook][DefaultEndpoint.java:588] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1] closeAsync()
+2024-12-01 00:03:25,861 DEBUG [SpringApplicationShutdownHook][DefaultEndpoint.java:588] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1] closeAsync()
+2024-12-01 00:03:25,866 DEBUG [SpringApplicationShutdownHook][AbstractRedisClient.java:568] - Initiate shutdown (0, 100, MILLISECONDS)
+2024-12-01 00:03:25,866 DEBUG [SpringApplicationShutdownHook][AbstractRedisClient.java:568] - Initiate shutdown (0, 100, MILLISECONDS)
+2024-12-01 00:03:25,867 DEBUG [lettuce-nioEventLoop-4-1][CommandHandler.java:348] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1, chid=0x1] channelInactive()
+2024-12-01 00:03:25,867 DEBUG [lettuce-nioEventLoop-4-1][CommandHandler.java:348] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1, chid=0x1] channelInactive()
+2024-12-01 00:03:25,869 DEBUG [lettuce-nioEventLoop-4-1][DefaultEndpoint.java:508] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1] deactivating endpoint handler
+2024-12-01 00:03:25,869 DEBUG [lettuce-nioEventLoop-4-1][DefaultEndpoint.java:508] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1] deactivating endpoint handler
+2024-12-01 00:03:25,870 DEBUG [lettuce-nioEventLoop-4-1][CommandHandler.java:372] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1, chid=0x1] channelInactive() done
+2024-12-01 00:03:25,870 DEBUG [lettuce-nioEventLoop-4-1][CommandHandler.java:372] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1, chid=0x1] channelInactive() done
+2024-12-01 00:03:25,872 DEBUG [SpringApplicationShutdownHook][DefaultEventLoopGroupProvider.java:266] - Release executor io.netty.channel.nio.NioEventLoopGroup@12a034a9
+2024-12-01 00:03:25,872 DEBUG [SpringApplicationShutdownHook][DefaultEventLoopGroupProvider.java:266] - Release executor io.netty.channel.nio.NioEventLoopGroup@12a034a9
+2024-12-01 00:03:25,873 DEBUG [lettuce-nioEventLoop-4-1][ConnectionWatchdog.java:199] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, last known addr=/120.46.13.225:6379] channelInactive()
+2024-12-01 00:03:25,873 DEBUG [lettuce-nioEventLoop-4-1][ConnectionWatchdog.java:199] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, last known addr=/120.46.13.225:6379] channelInactive()
+2024-12-01 00:03:25,873 DEBUG [lettuce-nioEventLoop-4-1][ConnectionWatchdog.java:210] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, last known addr=/120.46.13.225:6379] Reconnect scheduling disabled
+2024-12-01 00:03:25,873 DEBUG [lettuce-nioEventLoop-4-1][ConnectionWatchdog.java:210] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, last known addr=/120.46.13.225:6379] Reconnect scheduling disabled
+2024-12-01 00:03:25,873 DEBUG [lettuce-nioEventLoop-4-1][CommandHandler.java:231] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1, chid=0x1] channelUnregistered()
+2024-12-01 00:03:25,873 DEBUG [lettuce-nioEventLoop-4-1][CommandHandler.java:231] - [channel=0x83b4c155, /192.168.95.242:59124 -> /120.46.13.225:6379, epid=0x1, chid=0x1] channelUnregistered()
+2024-12-01 00:03:25,874 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:25,874 DEBUG [HikariPool-1 housekeeper][HikariPool.java:405] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:25,874 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:03:25,874 DEBUG [HikariPool-1 housekeeper][HikariPool.java:510] - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2024-12-01 00:03:25,874 DEBUG [lettuce-nioEventLoop-4-1][PoolThreadCache.java:218] - Freed 7 thread-local buffer(s) from thread: lettuce-nioEventLoop-4-1
+2024-12-01 00:03:25,874 DEBUG [lettuce-nioEventLoop-4-1][PoolThreadCache.java:218] - Freed 7 thread-local buffer(s) from thread: lettuce-nioEventLoop-4-1
+2024-12-01 00:03:25,878 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisConnectionFactory' completed its stop procedure
+2024-12-01 00:03:25,878 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'redisConnectionFactory' completed its stop procedure
+2024-12-01 00:03:25,878 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:399] - Successfully stopped bean 'refreshScopeLifecycle'
+2024-12-01 00:03:25,878 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:399] - Successfully stopped bean 'refreshScopeLifecycle'
+2024-12-01 00:03:25,878 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase -2147483647
+2024-12-01 00:03:25,878 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:519] - Stopping beans in phase -2147483647
+2024-12-01 00:03:25,879 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-12-01 00:03:25,879 DEBUG [SpringApplicationShutdownHook][DefaultLifecycleProcessor.java:388] - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-12-01 00:03:25,880 DEBUG [SpringApplicationShutdownHook][MBeanExporter.java:467] - Unregistering JMX-exposed beans on shutdown
+2024-12-01 00:03:25,880 DEBUG [SpringApplicationShutdownHook][MBeanExporter.java:467] - Unregistering JMX-exposed beans on shutdown
+2024-12-01 00:03:25,880 DEBUG [SpringApplicationShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-12-01 00:03:25,880 DEBUG [SpringApplicationShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-12-01 00:03:25,881 DEBUG [SpringApplicationShutdownHook][ExecutorConfigurationSupport.java:370] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-12-01 00:03:25,881 DEBUG [SpringApplicationShutdownHook][ExecutorConfigurationSupport.java:370] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-12-01 00:03:25,882 DEBUG [SpringApplicationShutdownHook][DefaultClientResources.java:741] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:25,882 DEBUG [SpringApplicationShutdownHook][DefaultClientResources.java:741] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:25,886 DEBUG [SpringApplicationShutdownHook][DefaultEventLoopGroupProvider.java:302] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:25,886 DEBUG [SpringApplicationShutdownHook][DefaultEventLoopGroupProvider.java:302] - Initiate shutdown (0, 2, SECONDS)
+2024-12-01 00:03:25,889 DEBUG [SpringApplicationShutdownHook][DisposableBeanAdapter.java:361] - Custom destroy method 'shutdown' on bean with name 'lettuceClientResources' completed asynchronously
+2024-12-01 00:03:25,889 DEBUG [SpringApplicationShutdownHook][DisposableBeanAdapter.java:361] - Custom destroy method 'shutdown' on bean with name 'lettuceClientResources' completed asynchronously
+2024-12-01 00:03:25,889 INFO [SpringApplicationShutdownHook][HikariDataSource.java:349] - HikariPool-1 - Shutdown initiated...
+2024-12-01 00:03:25,889 INFO [SpringApplicationShutdownHook][HikariDataSource.java:349] - HikariPool-1 - Shutdown initiated...
+2024-12-01 00:03:25,889 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:25,889 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-12-01 00:03:25,892 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1e8f41bb: (connection evicted)
+2024-12-01 00:03:25,892 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1e8f41bb: (connection evicted)
+2024-12-01 00:03:25,898 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@663fceea: (connection evicted)
+2024-12-01 00:03:25,898 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@663fceea: (connection evicted)
+2024-12-01 00:03:25,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12d4bd25: (connection evicted)
+2024-12-01 00:03:25,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12d4bd25: (connection evicted)
+2024-12-01 00:03:25,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@fef447b: (connection evicted)
+2024-12-01 00:03:25,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@fef447b: (connection evicted)
+2024-12-01 00:03:25,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@475c9ca5: (connection evicted)
+2024-12-01 00:03:25,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@475c9ca5: (connection evicted)
+2024-12-01 00:03:25,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3457a826: (connection evicted)
+2024-12-01 00:03:25,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3457a826: (connection evicted)
+2024-12-01 00:03:25,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ea67d6e: (connection evicted)
+2024-12-01 00:03:25,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ea67d6e: (connection evicted)
+2024-12-01 00:03:25,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5cac1fb8: (connection evicted)
+2024-12-01 00:03:25,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5cac1fb8: (connection evicted)
+2024-12-01 00:03:25,903 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5f195011: (connection evicted)
+2024-12-01 00:03:25,903 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5f195011: (connection evicted)
+2024-12-01 00:03:25,903 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1bf63207: (connection evicted)
+2024-12-01 00:03:25,903 DEBUG [HikariPool-1 connection closer][PoolBase.java:133] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1bf63207: (connection evicted)
+2024-12-01 00:03:25,903 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-12-01 00:03:25,903 DEBUG [SpringApplicationShutdownHook][HikariPool.java:405] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-12-01 00:03:25,904 INFO [SpringApplicationShutdownHook][HikariDataSource.java:351] - HikariPool-1 - Shutdown completed.
+2024-12-01 00:03:25,904 INFO [SpringApplicationShutdownHook][HikariDataSource.java:351] - HikariPool-1 - Shutdown completed.
