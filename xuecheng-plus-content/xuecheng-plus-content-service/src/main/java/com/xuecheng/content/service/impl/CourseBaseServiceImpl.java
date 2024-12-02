@@ -15,9 +15,7 @@ import com.xuecheng.content.model.dto.CourseBaseInfoDto;
 import com.xuecheng.content.model.dto.UpdateCourseDto;
 import com.xuecheng.content.model.dto.QueryCourseParamsDto;
 import com.xuecheng.content.model.dto.SaveCourseDto;
-import com.xuecheng.content.model.po.CourseBase;
-import com.xuecheng.content.model.po.CourseCategory;
-import com.xuecheng.content.model.po.CourseMarket;
+import com.xuecheng.content.model.po.*;
 import com.xuecheng.content.service.CourseBaseService;
 import jakarta.annotation.Resource;
 import lombok.extern.slf4j.Slf4j;
@@ -49,6 +47,15 @@ public class CourseBaseServiceImpl extends ServiceImpl<CourseBaseMapper, CourseB
 
     @Resource
     private CourseMarketMapper courseMarketMapper;
+
+    @Resource
+    private TeachplanMapper teachplanMapper;
+
+    @Resource
+    private TeachplanMediaMapper teachplanMediaMapper;
+
+    @Resource
+    private CourseTeacherMapper courseTeacherMapper;
 
     private void validateCourseInfo(SaveCourseDto saveCourseDto) {
         //合法性校验
@@ -213,6 +220,43 @@ public class CourseBaseServiceImpl extends ServiceImpl<CourseBaseMapper, CourseB
             result = courseMarketMapper.updateById(courseMarket);
         }
         return result;
+    }
+
+    @Override
+    public void delete(Long companyId, Long courseId) {
+        // 首先查看课程是否存在
+        CourseBase courseBase = courseBaseMapper.selectOne(Wrappers.<CourseBase>lambdaQuery()
+                .eq(CourseBase::getId, courseId));
+        if (Objects.isNull(courseBase)) {
+            XueChengPlusException.cast("该课程不存在");
+        }
+        // 查看是否是本机构
+        if (!Objects.equals(companyId, courseBase.getCompanyId())) {
+            XueChengPlusException.cast("本机构只能删除本机构的信息");
+        }
+        // 查看课程是否是未提交状态
+        if ("202002".equals(courseBase.getStatus())) {
+            XueChengPlusException.cast("只有处于未提交状态的课程，才能被删除");
+        }
+        // 删除课程基本信息
+        int d1 = courseBaseMapper.deleteById(courseBase);
+        if (d1 < 1) {
+            XueChengPlusException.cast("删除课程失败");
+        }
+        // 删除course_market信息
+        int d2 = courseMarketMapper.deleteById(courseId);
+        if (d2 < 1) {
+            XueChengPlusException.cast("删除课程失败");
+        }
+        // 删除teachplan信息
+        teachplanMapper.delete(Wrappers.<Teachplan>lambdaQuery()
+                .eq(Teachplan::getCourseId, courseId));
+        // 删除teachplan_media信息
+        teachplanMediaMapper.delete(Wrappers.<TeachplanMedia>lambdaQuery()
+                .eq(TeachplanMedia::getCourseId, courseId));
+        // 删除课程老师信息
+        courseTeacherMapper.delete(Wrappers.<CourseTeacher>lambdaQuery()
+                .eq(CourseTeacher::getCourseId, courseId));
     }
 
 }

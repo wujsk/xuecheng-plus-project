@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.4.0</version>
+        <version>3.2.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xuecheng</groupId>
@@ -33,13 +33,14 @@
         <module>../xuecheng-plus-content</module>
         <module>../xuecheng-plus-generator</module>
         <module>../xuecheng-plus-system</module>
+        <module>../xuecheng-plus-gateway</module>
     </modules>
 
     <properties>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <spring-boot.version>3.4.0</spring-boot.version>
+        <spring-boot.version>3.2.0</spring-boot.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
         <org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
         <spring-cloud-alibaba.version>2022.0.0.0</spring-cloud-alibaba.version>

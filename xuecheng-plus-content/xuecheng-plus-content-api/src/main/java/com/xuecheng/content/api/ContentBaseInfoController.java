@@ -54,9 +54,17 @@ public class ContentBaseInfoController {
     @Operation(summary = "修改课程信息")
     public CourseBaseInfoDto update(@RequestBody
                                     @Validated UpdateCourseDto dto) {
-        // 机构名称，由于认证系统没上线，硬编码
+        // TODO 机构名称，由于认证系统没上线，硬编码
         Long companyId = 1232141425L;
         return courseBaseService.update(companyId, dto);
+    }
+
+    @DeleteMapping("/{courseId}")
+    @Operation(summary = "删除课程信息")
+    public void deleteTeacher(@PathVariable("courseId") Long courseId) {
+        // TODO 机构名称，由于认证系统没上线，硬编码
+        Long companyId = 1232141425L;
+        courseBaseService.delete(companyId, courseId);
     }
 
 }

@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: system-api
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        group: xuecheng-plus-project
+      config:
+        server-addr: localhost:8848
+        group: xuecheng-plus-project
+        file-extension: yaml
+        refresh-enabled: true
+        shared-configs:
+          - data-id: swagger-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-common
+            refresh: true
+          - data-id: logging-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-common
+            refresh: true
+        extension-configs:
+          - data-id: system-service-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-project
+            refresh: true
+  profiles:
+    active: dev

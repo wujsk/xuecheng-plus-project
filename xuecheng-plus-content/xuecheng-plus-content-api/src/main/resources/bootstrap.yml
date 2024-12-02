@@ -1,0 +1,30 @@
+# 配置文件优先级：项目应用名配置文件（nacos）> 扩展配置文件（extension-configs） > 共享配置文件（shared-configs） > 本地配置文件
+spring:
+  application:
+    name: content-api
+  cloud:
+    # 本地配置优先 (配置到nacos中)
+    # config:
+    #   override-none: true
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        group: xuecheng-plus-project
+      config:
+        server-addr: localhost:8848
+        group: xuecheng-plus-project
+        file-extension: yaml
+        refresh-enabled: true
+        shared-configs:
+          - data-id: swagger-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-common
+            refresh: true
+          - data-id: logging-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-common
+            refresh: true
+        extension-configs:
+          - data-id: content-service-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-project
+            refresh: true
+  profiles:
+    active: dev
