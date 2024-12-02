@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: media-api
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        group: xuecheng-plus-project
+        file-extension: yaml
+        refresh-enabled: true
+        extension-configs:
+          - data-id: media-service-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-project
+            refresh: true
+        shared-configs:
+          - data-id: swagger-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-common
+            refresh: true
+          - data-id: logging-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+            group: xuecheng-plus-common
+            refresh: true
+  profiles:
+    active: dev
