@@ -5,6 +5,7 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848
+        group: xuecheng-plus-project
       config:
         server-addr: localhost:8848
         group: xuecheng-plus-project
